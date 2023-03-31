@@ -3,7 +3,7 @@ import wolframalpha
 import matplotlib.pyplot as plt
 from io import BytesIO
 
-bot = telebot.TeleBot('6037310007:AAEHoYIYUWK9Q-Ppt8SHtrrwEAed1ccdFA0')
+bot = telebot.TeleBot('')
 app_id = '3559KX-23WV87W7T7'
 client = wolframalpha.Client(app_id)
 
